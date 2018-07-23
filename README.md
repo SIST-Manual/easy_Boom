@@ -7,7 +7,7 @@ Keyiyuan is playing nuclear these days. He needs to move some `GTX1926-Ti` into 
 
 ## 输入 / Input
 
-The first line is an integer $N$
+The first line is an integer `N`
 
 The last $N$ lines include two integers which represent a nuclear's makeup
 
