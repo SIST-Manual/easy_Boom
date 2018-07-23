@@ -43,6 +43,12 @@ Output "no" in otherwise
 
 You can test offline by downloading [the test data](https://github.com/SIST-Manual/easy_Boom/blob/master/data/)
 
+## 提示 / Hint
+
+Maybe you need to learn Union-find Sets first.
+
 ## 答案 / Solutions
 
 [Cpp](https://github.com/SIST-Manual/easy_Boom/blob/master/solve.cpp)
+
+
