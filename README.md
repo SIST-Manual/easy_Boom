@@ -43,6 +43,10 @@ Output "no" in otherwise
 
 You can test offline by downloading [the test data](https://github.com/SIST-Manual/easy_Boom/blob/master/data/)
 
+Example: `./solve < data/boom1.in > test.out && diff -b test.out data/boom1.out`
+
+Or you can just use my simple test script `test.py` after modifying `JUDGE_COMMAND`
+
 ## 提示 / Hint
 
 Maybe you need to learn Union-find Sets first.
