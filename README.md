@@ -3,23 +3,23 @@
 
 ## 题目描述 / Description
 
-Keyiyuan is playing nuclear these days. He needs to move some `GTX1926-Ti` into the Time Tower. Each nuclear includes two types of clocks. If there exist some nuclear that the type's number of clocks in these nuclear is the same as the nuclear number, the Time Tower will end its life. Keyiyuan moves nuclear one by one to the Time Tower. Our question is that what is the number of nuclear when Time Tower run out of its life? If the Time Tower survived, You should output "no" or you should output an integer in otherwise.
+Keyiyuan is playing nuclear these days. He needs to move some `GTX1926-Ti` (that is a "gnuclear") one by one into the Time Tower. Each nuclear includes two types of GPU clocks (we just call it clock). If at any moment, the number of different clock types in any subset of all the gnuclears that has been moved into the tower is equal to the number of gnuclears in this particular subset, the Time Tower will end its life. Keyiyuan moves nuclear one by one to the Time Tower. Our question is that what is the number of nuclear when Time Tower run out of its life? If the Time Tower survived, You should output "no" or you should output an integer in otherwise.
 
 ## 输入 / Input
 
 The first line is an integer `N`
 
-The last $N$ lines include two integers which represent a nuclear's makeup
+The next `N` lines include two integers which represent the two clock types `t(2i),t(2i+1)` in the current gnuclear.
 
-N<=10^5
+N ≤ 10^5
 
-the number of types will less than 10^5
+`t(2i),t(2i+1)` ≤ 10^5
 
 ## 输出 / Output
 
-If the Time Tower will break down, Output an integer
+If the Time Tower will break down, Output an integer represent the number of nuclear when Time Tower run out of its life.
 
-Output "no" in otherwise
+Otherwise, output "no" 
 
 ## 样例 / Example
 
