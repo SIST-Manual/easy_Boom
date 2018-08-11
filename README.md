@@ -1,6 +1,8 @@
 
 # easy_Chthollys-request
 
+本题题面转移至https://github.com/SIST-Manual/easy_New-boom
+
 ## 题目描述 / Description
 
 Keyiyuan is playing nuclear these days. He needs to move some `GTX1926-Ti` (that is a "gnuclear") one by one into the Time Tower. Each nuclear includes two types of GPU clocks (we just call it clock). If at any moment, the number of different clock types in any subset of all the gnuclears that has been moved into the tower is equal to the number of gnuclears in this particular subset, the Time Tower will end its life. Keyiyuan moves nuclear one by one to the Time Tower. Our question is that what is the number of nuclear when Time Tower run out of its life? If the Time Tower survived, You should output "no" or you should output an integer in otherwise.
