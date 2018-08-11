@@ -1,5 +1,5 @@
 
-# easy_Chthollys-request
+# easy_Boom
 
 本题题面转移至https://github.com/SIST-Manual/easy_New-boom
 
